@@ -10,10 +10,10 @@ Currently, two official plugins are available:
 
 
 # Backend
-https://github.com/Vaibhav-Kumar10/Backend
-https://backend-hyv7.onrender.com
+- https://github.com/Vaibhav-Kumar10/Backend
+- https://backend-hyv7.onrender.com
 
 
 # AI Model
-https://github.com/Vaibhav-Kumar10/AI-ML-Model
-https://ai-ml-model.onrender.com
+- https://github.com/Vaibhav-Kumar10/AI-ML-Model
+- https://ai-ml-model.onrender.com
